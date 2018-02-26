@@ -1,2 +1,0 @@
-# sharingTodo
-share with pertner
